@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+<head>
+  <meta charset="utf-8">
+  <title>HTML template</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+</head>
+<body>
+
+  <header>
+    <img src="images/logo.svg" alt="">
+    <h1>The Solar System</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Stars</a></li>
+        <li><a href="#">Terrestrial planets</a></liv>
+        <li><a href="#">Gas giants</a></liv>
+        <li><a href="#">Dwarf planets</a></liv>
+        <li><a href="#">Asteroids</a></liv>
+        <li><a href="#">Comets</a></liv>
+      </ul>
+    </nav>
+  </header>
+
+  <figure>
+    <figcaption>
+      <img src="images/banner.svg" alt="">
+      <P>The solar system-our home in the stars.</p>
+    </figcaption>
+    <p>The solar system is the gravitationally bound system comprising the Sun and the planetary system that orbits it.
+  </figure>
+
+</body>
